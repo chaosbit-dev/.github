@@ -11,6 +11,7 @@ pieces that are useful beyond one house end up public.
 | Project | What it is |
 |---|---|
 | [comlink](https://github.com/chaosbit-dev/comlink) | MCP server for Proton Mail via Proton Mail Bridge: search, read and organize, with guardrails on send. |
+| [paperless-mcp](https://github.com/chaosbit-dev/paperless-mcp) | MCP server for Paperless-ngx: find documents and read their extracted fields, without returning document text. |
 
 ## How we work
 
