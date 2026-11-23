@@ -24,7 +24,7 @@ pieces that are useful beyond one house end up public.
 
 ## Contact
 
-- Writing: [chaosbit.dev](https://chaosbit.dev) ([source](https://github.com/chaosbit-dev/chaosbit.dev))
+- Site: [chaosbit.dev](https://chaosbit.dev) ([source](https://github.com/chaosbit-dev/chaosbit.dev))
 - Brand assets: [brand](https://github.com/chaosbit-dev/brand)
 - Security issues: see [SECURITY.md](https://github.com/chaosbit-dev/.github/blob/main/SECURITY.md).
   Please don't open a public issue.
