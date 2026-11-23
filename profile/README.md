@@ -12,6 +12,7 @@ pieces that are useful beyond one house end up public.
 |---|---|
 | [comlink](https://github.com/chaosbit-dev/comlink) | MCP server for Proton Mail via Proton Mail Bridge: search, read and organize, with guardrails on send. |
 | [paperless-mcp](https://github.com/chaosbit-dev/paperless-mcp) | MCP server for Paperless-ngx: find documents and read their extracted fields, without returning document text. |
+| [obsidian-git-mcp](https://github.com/chaosbit-dev/obsidian-git-mcp) | MCP server for an Obsidian vault kept in git: search, read and edit notes, one commit per change with links kept intact. |
 
 ## How we work
 
@@ -22,6 +23,7 @@ pieces that are useful beyond one house end up public.
 
 ## Contact
 
-- Writing: [chaosbit.dev](https://chaosbit.dev)
+- Writing: [chaosbit.dev](https://chaosbit.dev) ([source](https://github.com/chaosbit-dev/chaosbit.dev))
+- Brand assets: [brand](https://github.com/chaosbit-dev/brand)
 - Security issues: see [SECURITY.md](https://github.com/chaosbit-dev/.github/blob/main/SECURITY.md).
   Please don't open a public issue.
